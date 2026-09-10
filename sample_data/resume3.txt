@@ -1,0 +1,16 @@
+Raj Patel
+Web Developer
+
+Summary:
+Frontend focused developer with some backend exposure.
+
+Skills:
+HTML, CSS, JavaScript, React, Node.js, MongoDB, Git
+
+Experience:
+Web Developer at WebStudio (2021-2025)
+Built responsive websites using React and Node.js.
+Worked with MongoDB for database management.
+
+Education:
+Bachelor of Engineering in Information Technology, 2021

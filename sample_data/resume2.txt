@@ -1,0 +1,16 @@
+Jane Smith
+Data Analyst
+
+Summary:
+Data enthusiast with strong skills in Python and Machine Learning.
+
+Skills:
+Python, Machine Learning, Pandas, NumPy, SQL, Data Visualization, Excel
+
+Experience:
+Data Analyst Intern at DataWorks (2023-2024)
+Performed data analysis using Python and built dashboards using Excel.
+Applied machine learning models for prediction tasks.
+
+Education:
+Bachelor of Engineering in Computer Science, 2023

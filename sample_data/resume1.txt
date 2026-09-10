@@ -1,0 +1,16 @@
+John Doe
+Software Engineer
+
+Summary:
+Experienced software developer with 3 years of experience in backend development.
+
+Skills:
+Java, Spring Boot, SQL, REST API, Git, Data Structures, Algorithms
+
+Experience:
+Backend Developer at TechCorp (2022-2025)
+Built REST APIs using Java and Spring Boot. Worked with MySQL databases.
+Collaborated with team using Git for version control.
+
+Education:
+Bachelor of Engineering in Computer Science, 2022

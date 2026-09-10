@@ -1,0 +1,11 @@
+streamlit
+nltk
+PyPDF2
+python-docx
+scikit-learn
+wordcloud
+matplotlib
+pandas
+spacy
+textstat
+https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.7.1/en_core_web_md-3.7.1-py3-none-any.whl

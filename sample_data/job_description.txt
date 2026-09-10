@@ -1,0 +1,6 @@
+Job Title: Backend Developer
+
+We are looking for a Backend Developer with strong experience in Java, 
+Spring Boot, and SQL databases. The candidate should have knowledge of 
+REST API development, Git version control, and data structures and algorithms.
+Experience with Python is a plus. Good problem-solving skills required.
