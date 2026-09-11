@@ -4,10 +4,16 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
+# Ensure required NLTK data is available (downloads only if missing)
+for resource in ["stopwords", "wordnet", "punkt", "punkt_tab"]:
+    try:
+        nltk.download(resource, quiet=True)
+    except Exception:
+        pass
+
 # Load stopwords once (words like "the", "is", "a" that carry no real meaning)
 stop_words = set(stopwords.words('english'))
 lemmatizer = WordNetLemmatizer()
-
 
 def clean_text(text):
     """Remove special characters, numbers, and extra whitespace. Lowercase everything."""
